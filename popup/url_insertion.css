@@ -1,0 +1,30 @@
+html, body {
+  width: 300px;
+  background-color:#202025;
+}
+
+.inputbox {
+  width: 100%;
+  padding: 4px;
+  font-size: 1.5em;
+  text-align: left;
+  cursor: pointer;
+  color:#bbbbbb;
+  background-color: #202020;
+  border-color: #808080;
+}
+
+.gobutton{
+  width: 100%;
+  padding: 4px;
+  font-size: 1.5em;
+  text-align: left;
+  cursor: pointer;
+  color:#bbbbbb;
+  background-color: #202020;
+  border-color: #808080;
+}
+.gobutton:hover {
+  background-color: #666666;
+  border-color: #808080;
+}

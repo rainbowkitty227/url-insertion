@@ -1,0 +1,17 @@
+{
+    "manifest_version":2,
+    "name": "url://insertion",
+    "version": "1.0",
+
+    "description": "do this later",
+
+    "icons": {"48": "icons/tmp.png"},
+
+    "browser_action": {
+        "browser_style": true,
+        "default_popup": "popup/url_insertion.html",
+        "default_icon": {
+            "16": "icons/tmp.png"
+        }
+    }
+}
