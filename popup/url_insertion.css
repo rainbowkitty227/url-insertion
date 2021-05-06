@@ -1,30 +1,51 @@
 html, body {
-  width: 300px;
-  background-color:#202025;
+    width: 300px;
+    height: 102px;
+    background-color:#202025;
 }
 
 .inputbox {
-  width: 100%;
-  padding: 4px;
-  font-size: 1.5em;
-  text-align: left;
-  cursor: pointer;
-  color:#bbbbbb;
-  background-color: #202020;
-  border-color: #808080;
+    width: 100%;
+    padding: 4px;
+    font-size: 1.5em;
+    text-align: left;
+    cursor: pointer;
+    color:#bbbbbb;
+    background-color: #202020;
+    border-color: #808080;
+}
+.inputbox:hover {
+    background-color: #666666;
+    border-color: #808080;
+    cursor:text
 }
 
 .gobutton{
-  width: 100%;
-  padding: 4px;
-  font-size: 1.5em;
-  text-align: left;
-  cursor: pointer;
-  color:#bbbbbb;
-  background-color: #202020;
-  border-color: #808080;
+    width: 100%;
+    padding: 4px;
+    font-size: 1.5em;
+    text-align: left;
+    cursor: pointer;
+    color:#bbbbbb;
+    background-color: #202020;
+    border-color: #808080;
 }
 .gobutton:hover {
-  background-color: #666666;
-  border-color: #808080;
+    background-color: #666666;
+    border-color: #808080;
+}
+
+.dropdown{
+    width: 100%;
+    padding: 4px;
+    font-size: 1.5em;
+    text-align: left;
+    cursor: pointer;
+    color:#bbbbbb;
+    background-color: #202020;
+    border-color: #808080;
+}
+.dropdown:hover {
+    background-color: #666666;
+    border-color: #808080;
 }
